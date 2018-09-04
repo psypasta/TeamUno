@@ -1,5 +1,5 @@
 package com.uno.inventory.model;
-//import com.example.inventory.model.audit.DateAudit;
+//import com.uno.inventory.model.audit.DateAudit;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import javax.persistence.*;
 import javax.validation.constraints.Email;
